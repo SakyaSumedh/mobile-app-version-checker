@@ -21,6 +21,7 @@ check-version/
 ## Requirements
 - Django: https://www.djangoproject.com/download/
 ```
+$ pip install django
 ```
 
 - Django Rest Framework: https://www.django-rest-framework.org/#installation
