@@ -43,6 +43,7 @@ INSTALLED_APP = [
 	...
 	'rest_framework',
 	'rest_framework.authtoken', # required if used django rest framework's Token Authentication
+	'rest_auth', # if installed django-rest-auth
 	
 	'mobile_version_app',
 	...
