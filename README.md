@@ -42,7 +42,7 @@ $ pip install django-rest-auth
 INSTALLED_APP = [
 	...
 	'rest_framework',
-	'rest_framework.authtoken', \# required if used django rest framework's Token Authentication
+	'rest_framework.authtoken', # required if used django rest framework's Token Authentication
 	
 	'mobile_version_app',
 	...
