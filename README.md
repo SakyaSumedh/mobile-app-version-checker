@@ -21,7 +21,6 @@ check-version/
 ## Requirements
 - Django: https://www.djangoproject.com/download/
 ```
-$ pip install django
 ```
 
 - Django Rest Framework: https://www.django-rest-framework.org/#installation
@@ -49,7 +48,7 @@ INSTALLED_APP = [
 ]
 
 
-\# Codes for API response
+# Codes for API response
 ERROR_CODE = 0
 SUCCESS_CODE = 1 
 APP_UPDATE_MANDATORY = 4 
